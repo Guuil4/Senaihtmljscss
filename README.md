@@ -1,2 +1,0 @@
-# Senaihtmljscss
-trabalho
