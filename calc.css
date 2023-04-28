@@ -1,0 +1,86 @@
+body {
+    background-color: #f7f7f7;
+    font-family: Arial, sans-serif;
+  }
+  
+  h3#descExercicio {
+    font-size: 18px;
+    font-weight: bold;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 6px;
+    margin-bottom: 20px;
+  }
+  
+  form {
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    max-width: 350px;
+    margin: 0 auto;
+  }
+  
+  label {
+    display: block;
+    font-size: 20px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  input[type="text"] {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #33ff00;
+    font-size: 14px;
+    margin-bottom: 20px;
+    width: 100%;
+    left: 100;
+    right: 50;
+  }
+  
+  input[type="submit"] {
+    background-color: #519753;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  input[type="submit"]:hover {
+    background-color: #20e92a;
+  }
+
+   #descExercicio {
+  border: 2px solid black;
+  padding: 10px;
+  background-color: #147181;
+  padding: 20px 20px;
+}
+
+h1 {
+    background-color: #333;
+    color: #fff;
+    border: ;
+    padding: 20px 20px;
+    border-radius: 68px;
+    font-size: 22px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    left: 100px;
+    right: px;
+
+}
+
+.titulo {
+    background-color: #00fabb;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    max-width: 350px;
+    margin: 0 auto;
+    text-align: center;
+}
